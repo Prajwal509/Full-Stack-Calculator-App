@@ -1,0 +1,12 @@
+# Frontend
+node_modules/
+build/
+.env
+
+# Backend
+coverage.out
+*.exe
+
+# General
+*.log
+.DS_Store
